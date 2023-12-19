@@ -1,4 +1,6 @@
-### Hi there 👋 I'm Sun ☀️
+<div align="center">
+  Hi there 👋 I'm Sun ☀️
+</div> 
 
 <!--
 **ahn132/ahn132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
