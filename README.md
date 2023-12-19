@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Sun and I'm a student at Purdue University studying computer science
+
 <!--
 **ahn132/ahn132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
