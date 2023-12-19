@@ -1,7 +1,6 @@
-<div align="center">
+<h1 align="center">
   Hi there 👋 I'm Sun ☀️
-</div> 
-
+</h1> 
 <!--
 **ahn132/ahn132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
